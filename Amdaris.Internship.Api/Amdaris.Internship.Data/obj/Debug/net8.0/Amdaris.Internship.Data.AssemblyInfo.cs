@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Amdaris.Internship.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f417c18bedc5a793b2ba5e105edc6600ec468c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Amdaris.Internship.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Amdaris.Internship.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
