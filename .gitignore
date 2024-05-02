@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/amdaris-internship/FileContentIndex
+/.vs/amdaris-internship/v17/TestStore/0
+/.vs/amdaris-internship/v17
+/Amdaris.Internship.Api/.vs/Amdaris.Internship.Api/FileContentIndex
+/.vs/slnx.sqlite
+/Amdaris.Internship.Api/.vs/Amdaris.Internship.Api/v17/.suo
+/Amdaris.Internship.Api/.vs/Amdaris.Internship.Api/v17/DocumentLayout.json
+/Amdaris.Internship.Api/Amdaris.Internship.Data/bin/Debug/net8.0/Amdaris.Internship.Data.dll
+/Amdaris.Internship.Api/Amdaris.Internship.Data/bin/Debug/net8.0/Amdaris.Internship.Data.pdb
